@@ -305,12 +305,6 @@ except TaskNotFoundError:
 - 🌐 [Client Documentation](https://robocompute.xyz/clients) - Client API docs
 - 🔧 [Provider Documentation](https://robocompute.xyz/providers) - Provider API docs
 
-## Support
-
-- 💬 [Discord Community](https://discord.gg/robocompute)
-- 🐛 [Issue Tracker](https://github.com/robocompute/robocompute-sdk/issues)
-- 📧 [Email Support](mailto:support@robocompute.xyz)
-
 ## License
 
 MIT License - see [LICENSE](./LICENSE) file for details.
